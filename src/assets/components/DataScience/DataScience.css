@@ -1,0 +1,21 @@
+.dataScience {
+    margin: 20px;
+    padding: 0px 20px;
+}
+
+.dataScience h2 {
+    margin: 10px 50px;
+}
+
+.dataScience p {
+    margin: 20px;
+    text-align: justify;
+}
+
+ol {
+    margin-left: 100px;
+}
+
+ol li{
+    margin-top: 7px;
+}
